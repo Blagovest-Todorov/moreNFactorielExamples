@@ -1,0 +1,13 @@
+C:\Users\Bla\source\repos\DataTypes\10.tutorialWhileLoop\bin\Debug\netcoreapp3.1\10.tutorialWhileLoop.exe
+C:\Users\Bla\source\repos\DataTypes\10.tutorialWhileLoop\bin\Debug\netcoreapp3.1\10.tutorialWhileLoop.deps.json
+C:\Users\Bla\source\repos\DataTypes\10.tutorialWhileLoop\bin\Debug\netcoreapp3.1\10.tutorialWhileLoop.runtimeconfig.json
+C:\Users\Bla\source\repos\DataTypes\10.tutorialWhileLoop\bin\Debug\netcoreapp3.1\10.tutorialWhileLoop.runtimeconfig.dev.json
+C:\Users\Bla\source\repos\DataTypes\10.tutorialWhileLoop\bin\Debug\netcoreapp3.1\10.tutorialWhileLoop.dll
+C:\Users\Bla\source\repos\DataTypes\10.tutorialWhileLoop\bin\Debug\netcoreapp3.1\10.tutorialWhileLoop.pdb
+C:\Users\Bla\source\repos\DataTypes\10.tutorialWhileLoop\obj\Debug\netcoreapp3.1\10.tutorialWhileLoop.csprojAssemblyReference.cache
+C:\Users\Bla\source\repos\DataTypes\10.tutorialWhileLoop\obj\Debug\netcoreapp3.1\10.tutorialWhileLoop.AssemblyInfoInputs.cache
+C:\Users\Bla\source\repos\DataTypes\10.tutorialWhileLoop\obj\Debug\netcoreapp3.1\10.tutorialWhileLoop.AssemblyInfo.cs
+C:\Users\Bla\source\repos\DataTypes\10.tutorialWhileLoop\obj\Debug\netcoreapp3.1\10.tutorialWhileLoop.csproj.CoreCompileInputs.cache
+C:\Users\Bla\source\repos\DataTypes\10.tutorialWhileLoop\obj\Debug\netcoreapp3.1\10.tutorialWhileLoop.dll
+C:\Users\Bla\source\repos\DataTypes\10.tutorialWhileLoop\obj\Debug\netcoreapp3.1\10.tutorialWhileLoop.pdb
+C:\Users\Bla\source\repos\DataTypes\10.tutorialWhileLoop\obj\Debug\netcoreapp3.1\10.tutorialWhileLoop.genruntimeconfig.cache
